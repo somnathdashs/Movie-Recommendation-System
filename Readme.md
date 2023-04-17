@@ -16,8 +16,8 @@ All Social-Media Industry used it to provide the content that the users are most
  
 ## Type on Recommender System
 
-   ###### 1) content-based systems 
-   ###### 2) collaborative filtering systems 
+   #### 1) content-based systems 
+   #### 2) collaborative filtering systems 
    
 
 
